@@ -9,7 +9,6 @@ This project is a simple banking system implemented in Python. It allows users t
 3. **Amount Deposit**: Logged-in users can deposit money into their account.
 4. **Amount Withdrawal**: Logged-in users can withdraw money from their account.
 5. **Transaction History**: Users can view their transaction history.
-6. **Email Notifications**: Users receive email notifications for every transaction (deposit or withdrawal).
 
 ## Requirements
 
